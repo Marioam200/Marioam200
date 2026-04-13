@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./assets/mario-banner.svg" alt="Mario Álvarez Martínez" width="100%"/>
-</p>
+![a2a5cce9-8f17-4046-b82e-9741453dd391](https://github.com/user-attachments/assets/d2169320-2f7d-497d-a302-9c8d5e02689b)
+
 
 **Data Scientist | Sports Analytics Enthusiast | 20 years old | Valencia, Spain**
 
