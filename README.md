@@ -1,4 +1,6 @@
-# Mario Álvarez Martínez
+<p align="center">
+  <img src="./assets/mario-banner.svg" alt="Mario Álvarez Martínez" width="100%"/>
+</p>
 
 **Data Scientist | Sports Analytics Enthusiast | 20 years old | Valencia, Spain**
 
@@ -78,3 +80,6 @@ I'd love to collaborate, exchange ideas, or simply chat about Data Science and s
 ---
 
 **"Data tells stories. I help discover them."** 
+
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Marioam200&theme=midnight-purple&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
